@@ -9,9 +9,6 @@ export ZSH=/Users/burkeholland/.oh-my-zsh
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 ZSH_THEME="cloud"
 
-export AZURE_USERNAME="burkedoesreact1"
-export AZURE_PASSWORD="Friday03"
-
 alias c=code
 alias bp="c ~/.bash_profile"
 alias zp="c ~/.zshrc"
